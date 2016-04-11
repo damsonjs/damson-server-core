@@ -4,7 +4,7 @@
 
 <table>
 <tr> 
-<td>Package</td><td>damson-util</td>
+<td>Package</td><td>damson-server-core</td>
 </tr>
 <tr>
 <td>Description</td>
